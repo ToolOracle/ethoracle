@@ -1,0 +1,11 @@
+{
+  "name": "ETHOracle",
+  "description": "Ethereum intelligence for AI agents — gas tracker, ENS, token analytics, whale monitoring, DeFi data via MCP",
+  "repository": "https://github.com/ToolOracle/ethoracle",
+  "endpoint": "https://tooloracle.io/eth/mcp/",
+  "health": "https://tooloracle.io/eth/health",
+  "tools": 10,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": ["ethereum", "mcp", "ai-agent", "tooloracle"]
+}
