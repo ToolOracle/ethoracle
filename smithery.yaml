@@ -1,0 +1,5 @@
+name: ETHOracle
+description: Ethereum intelligence — gas, staking, DeFi — 9 tools
+endpoint: https://tooloracle.io/eth/mcp/
+transport: streamable-http
+license: MIT
